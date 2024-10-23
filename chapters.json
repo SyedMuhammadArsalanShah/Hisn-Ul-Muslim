@@ -1,0 +1,662 @@
+[
+    {
+        "chapter_number": "1",
+        "english_name": "When waking up",
+        "arabic_name": "أذكار الاستيقاظ من النوم"
+    },
+    {
+        "chapter_number": "2",
+        "english_name": "When wearing a garment",
+        "arabic_name": "دعاء لبس الثوب"
+    },
+    {
+        "chapter_number": "3",
+        "english_name": "When wearing a new garment",
+        "arabic_name": "دعاء لبس الثوب الجديد"
+    },
+    {
+        "chapter_number": "4",
+        "english_name": "To someone wearing a new garment",
+        "arabic_name": "الدعاء لمن لبس ثوباً جديداً"
+    },
+    {
+        "chapter_number": "5",
+        "english_name": "Before undressing",
+        "arabic_name": "ما يقول إذا وضع الثوب"
+    },
+    {
+        "chapter_number": "6",
+        "english_name": "Before entering the bathroom",
+        "arabic_name": "دعاء دخول الخلاء"
+    },
+    {
+        "chapter_number": "7",
+        "english_name": "After leaving the bathroom",
+        "arabic_name": "دعاء الخروج من الخلاء"
+    },
+    {
+        "chapter_number": "8",
+        "english_name": "Before ablution",
+        "arabic_name": "الذكر قبل الوضوء"
+    },
+    {
+        "chapter_number": "9",
+        "english_name": "Upon completing the ablution",
+        "arabic_name": "الذكر بعد الفراغ من الوضوء"
+    },
+    {
+        "chapter_number": "10",
+        "english_name": "Remembrance when leaving the home",
+        "arabic_name": "الذكر عند الخروج من المنزل"
+    },
+    {
+        "chapter_number": "11",
+        "english_name": "Remembrance upon entering the home",
+        "arabic_name": "الذكر عند الدخول المنزل"
+    },
+    {
+        "chapter_number": "12",
+        "english_name": "When going to the mosque",
+        "arabic_name": "دعاء الذهاب إلى المسجد"
+    },
+    {
+        "chapter_number": "13",
+        "english_name": "Upon entering the mosque",
+        "arabic_name": "دعاء دخول المسجد"
+    },
+    {
+        "chapter_number": "14",
+        "english_name": "Upon leaving the mosque",
+        "arabic_name": "دعاء الخروج من المسجد"
+    },
+    {
+        "chapter_number": "15",
+        "english_name": "Concerning the athan (the call to prayer)",
+        "arabic_name": "أذكار الأذان"
+    },
+    {
+        "chapter_number": "16",
+        "english_name": "At the start of the prayer (after takbeer)",
+        "arabic_name": "دعاء الاستفتاح"
+    },
+    {
+        "chapter_number": "17",
+        "english_name": "While bowing in prayer",
+        "arabic_name": "دعاء الركوع"
+    },
+    {
+        "chapter_number": "18",
+        "english_name": "Upon rising from the bowing position",
+        "arabic_name": "دعاء الرفع من الركوع"
+    },
+    {
+        "chapter_number": "19",
+        "english_name": "While prostrating",
+        "arabic_name": "دعاء السجود"
+    },
+    {
+        "chapter_number": "20",
+        "english_name": "Between the two prostrations",
+        "arabic_name": "دعاء الجلسة بين السجدتين"
+    },
+    {
+        "chapter_number": "21",
+        "english_name": "When prostrating due to recitation of the Quran",
+        "arabic_name": "دعاء سجود التلاوة"
+    },
+    {
+        "chapter_number": "22",
+        "english_name": "The Tashahhud",
+        "arabic_name": "التشهد"
+    },
+    {
+        "chapter_number": "23",
+        "english_name": "Prayers upon the Prophet ﷺ after the tashahhud",
+        "arabic_name": "الصلاة على النبي ﷺ بعد التشهد"
+    },
+    {
+        "chapter_number": "24",
+        "english_name": "After the last tashahhud and before salam",
+        "arabic_name": "الدعاء بعد التشهد الأخير وقبل السلام"
+    },
+    {
+        "chapter_number": "25",
+        "english_name": "After salam",
+        "arabic_name": "الأذكار بعد السلام من الصلاة"
+    },
+    {
+        "chapter_number": "26",
+        "english_name": "For seeking guidance in forming a decision or choosing the proper course",
+        "arabic_name": "دعاء صلاة الاستخارة"
+    },
+    {
+        "chapter_number": "27",
+        "english_name": "In the morning and evening",
+        "arabic_name": "أذكار الصباح والمساء"
+    },
+    {
+        "chapter_number": "28",
+        "english_name": "Before sleeping",
+        "arabic_name": "أذكار النوم"
+    },
+    {
+        "chapter_number": "29",
+        "english_name": "When tossing and turning during the night",
+        "arabic_name": "الدعاء إذا تقلب ليلاً"
+    },
+    {
+        "chapter_number": "30",
+        "english_name": "Upon experiencing unrest, fear, apprehensiveness during sleep",
+        "arabic_name": "دعاء القلق والفزع في النوم ومن بلي بالوحشة"
+    },
+    {
+        "chapter_number": "31",
+        "english_name": "Upon seeing a good dream or a bad dream",
+        "arabic_name": "ما يفعل من رأى الرؤيا أو الحلم"
+    },
+    {
+        "chapter_number": "32",
+        "english_name": "Qunoot Al-Witr",
+        "arabic_name": "دعاء قنوت الوتر"
+    },
+    {
+        "chapter_number": "33",
+        "english_name": "Immediately after salam of the witr prayer",
+        "arabic_name": "الذكر عقب السلام من الوتر"
+    },
+    {
+        "chapter_number": "34",
+        "english_name": "For anxiety and sorrow",
+        "arabic_name": "دعاء الهم والحزن"
+    },
+    {
+        "chapter_number": "35",
+        "english_name": "For one in distress",
+        "arabic_name": "دعاء الكرب"
+    },
+    {
+        "chapter_number": "36",
+        "english_name": "Upon encountering an enemy or those of authority",
+        "arabic_name": "دعاء لقاء العدو وذي السلطان"
+    },
+    {
+        "chapter_number": "37",
+        "english_name": "For one afraid of the ruler's injustice",
+        "arabic_name": "دعاء من خاف ظلم السلطان"
+    },
+    {
+        "chapter_number": "38",
+        "english_name": "Against enemies",
+        "arabic_name": "الدعاء على العدو"
+    },
+    {
+        "chapter_number": "39",
+        "english_name": "When being afraid of a group of people",
+        "arabic_name": "ما يقول من خاف قوماً"
+    },
+    {
+        "chapter_number": "40",
+        "english_name": "For one afflicted with doubt in his faith",
+        "arabic_name": "دعاء من أصابه شك في الإيمان"
+    },
+    {
+        "chapter_number": "41",
+        "english_name": "Settling a debt",
+        "arabic_name": "الدعاء قضاء الدين"
+    },
+    {
+        "chapter_number": "42",
+        "english_name": "For one afflicted by whisperings in prayer or recitation",
+        "arabic_name": "دعاء الوسوسة في الصلاة والقراءة"
+    },
+    {
+        "chapter_number": "43",
+        "english_name": "For one whose affairs have become difficult",
+        "arabic_name": "دعاء من استصعب عليه أمر"
+    },
+    {
+        "chapter_number": "44",
+        "english_name": "Upon committing a sin",
+        "arabic_name": "ما يقول ويفعل من أذنب ذنباً"
+    },
+    {
+        "chapter_number": "45",
+        "english_name": "For expelling the devil and his whisperings",
+        "arabic_name": "دعاء طرد الشيطان ووساوسه"
+    },
+    {
+        "chapter_number": "46",
+        "english_name": "When stricken with a mishap or overtaken by an affair",
+        "arabic_name": "الدعاء حينما يقع مالا يرضاه أو غلب على أمره"
+    },
+    {
+        "chapter_number": "47",
+        "english_name": "Congratulation on the occasion of a birth and its reply",
+        "arabic_name": "تهنئة المولود له وجوابه"
+    },
+    {
+        "chapter_number": "48",
+        "english_name": "Placing childen under Allah’s protection",
+        "arabic_name": "ما يعوذ به الأولاد"
+    },
+    {
+        "chapter_number": "49",
+        "english_name": "When visiting the sick",
+        "arabic_name": "الدعاء للمريض في عيادته"
+    },
+    {
+        "chapter_number": "50",
+        "english_name": "Excellence of visiting the sick",
+        "arabic_name": "فضل عيادة المريض"
+    },
+    {
+        "chapter_number": "51",
+        "english_name": "When the sick have renounced all hope of life",
+        "arabic_name": "دعاء المريض الذي يئس من حياته"
+    },
+    {
+        "chapter_number": "52",
+        "english_name": "Instruction for the one nearing death",
+        "arabic_name": "تلقين المحتضر لا إله إلا الله"
+    },
+    {
+        "chapter_number": "53",
+        "english_name": "For one afflicted by a calamity",
+        "arabic_name": "دعاء من أصيب بمصيبة"
+    },
+    {
+        "chapter_number": "54",
+        "english_name": "When closing the eyes of the deceased",
+        "arabic_name": "الدعاء عند إغماض الميت"
+    },
+    {
+        "chapter_number": "55",
+        "english_name": "For the deceased at the funeral prayer",
+        "arabic_name": "الدعاء للميت في الصلاة عليه"
+    },
+    {
+        "chapter_number": "56",
+        "english_name": "When the deceased is a child, during the funeral prayer",
+        "arabic_name": "الدعاء للفرط في الصلاة عليه"
+    },
+    {
+        "chapter_number": "57",
+        "english_name": "Condolence",
+        "arabic_name": "دعاء التعزية"
+    },
+    {
+        "chapter_number": "58",
+        "english_name": "Placing the deceased in the grave",
+        "arabic_name": "دعاء عند إدخال الميت القبر"
+    },
+    {
+        "chapter_number": "59",
+        "english_name": "After burying the deceased",
+        "arabic_name": "دعاء بعد دفن الميت"
+    },
+    {
+        "chapter_number": "60",
+        "english_name": "Visiting the graves",
+        "arabic_name": "دعاء زيارة القبور"
+    },
+    {
+        "chapter_number": "61",
+        "english_name": "During a wind storm",
+        "arabic_name": "دعاء الريح"
+    },
+    {
+        "chapter_number": "62",
+        "english_name": "Upon hearing thunder",
+        "arabic_name": "دعاء الرعد"
+    },
+    {
+        "chapter_number": "63",
+        "english_name": "For rain",
+        "arabic_name": "من أدعية الاستسقاء"
+    },
+    {
+        "chapter_number": "64",
+        "english_name": "When it rains",
+        "arabic_name": "الدعاء إذا رأى المطر"
+    },
+    {
+        "chapter_number": "65",
+        "english_name": "After rainfall",
+        "arabic_name": "الذكر بعد نزول المطر"
+    },
+    {
+        "chapter_number": "66",
+        "english_name": "Asking for clear skies",
+        "arabic_name": "من أدعية الاستصحاء"
+    },
+    {
+        "chapter_number": "67",
+        "english_name": "Upon sighting the crescent moon",
+        "arabic_name": "دعاء رؤية الهلال"
+    },
+    {
+        "chapter_number": "68",
+        "english_name": "Upon breaking fast",
+        "arabic_name": "الدعاء عند إفطار الصائم"
+    },
+    {
+        "chapter_number": "69",
+        "english_name": "Before eating",
+        "arabic_name": "الدعاء قبل الطعام"
+    },
+    {
+        "chapter_number": "70",
+        "english_name": "Upon completing the meal",
+        "arabic_name": "الدعاء عند الفراغ من الطعام"
+    },
+    {
+        "chapter_number": "71",
+        "english_name": "Of the guest for the host",
+        "arabic_name": "دعاء الضيف لصاحب الطعام"
+    },
+    {
+        "chapter_number": "72",
+        "english_name": "To one who intends to give food or drink",
+        "arabic_name": "الدعاء إذا أراد الطعام أو الشراب"
+    },
+    {
+        "chapter_number": "73",
+        "english_name": "When breaking fast in someone’s home",
+        "arabic_name": "الدعاء إذا أفطر عند أهل بيت"
+    },
+    {
+        "chapter_number": "74",
+        "english_name": "By one fasting when presented with food and does not break his fast",
+        "arabic_name": "دعاء الصائم إذا حضر الطعام ولم يفطر"
+    },
+    {
+        "chapter_number": "75",
+        "english_name": "When insulted while fasting",
+        "arabic_name": "ما يقول الصائم إذا سابه أحد"
+    },
+    {
+        "chapter_number": "76",
+        "english_name": "Upon seeing the early or premature fruit",
+        "arabic_name": "الدعاء عند رؤية باكورة الثمر"
+    },
+    {
+        "chapter_number": "77",
+        "english_name": "Upon sneezing",
+        "arabic_name": "دعاء العطاس"
+    },
+    {
+        "chapter_number": "78",
+        "english_name": "When a disbeliever praises Allah after sneezing",
+        "arabic_name": "ما يقالُ للكافر إذا عطس فحمد الله"
+    },
+    {
+        "chapter_number": "79",
+        "english_name": "To the newlywed",
+        "arabic_name": "الدعاء للمتزوج"
+    },
+    {
+        "chapter_number": "80",
+        "english_name": "On the wedding night or when buying an animal",
+        "arabic_name": "دعاء المتزوج \r\n    لنفسه ودعاء شراء الدابة"
+    },
+    {
+        "chapter_number": "81",
+        "english_name": "Before sexual intercourse with the wife",
+        "arabic_name": "الدعاء قبل إتيان الزوجة"
+    },
+    {
+        "chapter_number": "82",
+        "english_name": "When angry",
+        "arabic_name": "دعاء الغضب"
+    },
+    {
+        "chapter_number": "83",
+        "english_name": "Upon seeing someone in trial or tribulation",
+        "arabic_name": "دعاء من رأى مبتلى"
+    },
+    {
+        "chapter_number": "84",
+        "english_name": "At a sitting or gathering",
+        "arabic_name": "ما يقال في المجلس"
+    },
+    {
+        "chapter_number": "85",
+        "english_name": "For the expiation of sins, said at the conclusion of a sitting or gathering",
+        "arabic_name": "كفارة المجلس"
+    },
+    {
+        "chapter_number": "86",
+        "english_name": "Returning a supplication of forgiveness",
+        "arabic_name": "الدعاء لمن قال غفر الله لك"
+    },
+    {
+        "chapter_number": "87",
+        "english_name": "To one who does you a favour",
+        "arabic_name": "الدعاء لمن صنع \r\n    إليك معروفاً"
+    },
+    {
+        "chapter_number": "88",
+        "english_name": "Protection from the Dajjal",
+        "arabic_name": "الذكر الذي يعصم الله به من الدجال"
+    },
+    {
+        "chapter_number": "89",
+        "english_name": "To one who pronounces his love for you, for Allah’s sake",
+        "arabic_name": "الدعاء لمن قال إني أحبك في الله"
+    },
+    {
+        "chapter_number": "90",
+        "english_name": "To one who has offered you some of his wealth",
+        "arabic_name": "الدعاء لمن عرض عليك ماله"
+    },
+    {
+        "chapter_number": "91",
+        "english_name": "To the debtor when his debt is settled",
+        "arabic_name": "الدعاء لمن أقرض عند القضاء"
+    },
+    {
+        "chapter_number": "92",
+        "english_name": "For fear of shirk",
+        "arabic_name": "دعاء الخوف من الشرك"
+    },
+    {
+        "chapter_number": "93",
+        "english_name": "To someone who says \"May Allah bless you\"",
+        "arabic_name": "الدعاء لمن قال بارك الله فيك"
+    },
+    {
+        "chapter_number": "94",
+        "english_name": "The scorn of ascribing things to evil omens",
+        "arabic_name": "دعاء كراهية الطيرة"
+    },
+    {
+        "chapter_number": "95",
+        "english_name": "When mounting an animal or any means of transport",
+        "arabic_name": "دعاء ركوب الدابة أو ما يقوم مقامها"
+    },
+    {
+        "chapter_number": "96",
+        "english_name": "For travel",
+        "arabic_name": "دعاء السفر"
+    },
+    {
+        "chapter_number": "97",
+        "english_name": "Upon entering a town or village",
+        "arabic_name": "دعاء دخول القرية أو البلدة"
+    },
+    {
+        "chapter_number": "98",
+        "english_name": "When entering the market",
+        "arabic_name": "دعاء دخول السوق"
+    },
+    {
+        "chapter_number": "99",
+        "english_name": "When the mounted animal (or mean of transport) stumbles",
+        "arabic_name": "الدعاء إذا تعس المركوب"
+    },
+    {
+        "chapter_number": "100",
+        "english_name": "Supplication of the traveller for the resident",
+        "arabic_name": "دعاء المسافر للمقيم"
+    },
+    {
+        "chapter_number": "101",
+        "english_name": "Supplication of the resident for the traveller",
+        "arabic_name": "دعاء المقيم للمسافر"
+    },
+    {
+        "chapter_number": "102",
+        "english_name": "Takbir and Tasbih during travel",
+        "arabic_name": "التكبير والتسبيح في سير السفر"
+    },
+    {
+        "chapter_number": "103",
+        "english_name": "Prayer of the traveller as dawn approaches",
+        "arabic_name": "دعاء المسافر إذا أسحر"
+    },
+    {
+        "chapter_number": "104",
+        "english_name": "Stopping or lodging somewhere in travel and otherwise",
+        "arabic_name": "الدعاء إذا نزل منزلا في سفر أو غيره"
+    },
+    {
+        "chapter_number": "105",
+        "english_name": "While returning from travel",
+        "arabic_name": "ذكر الرجوع من السفر"
+    },
+    {
+        "chapter_number": "106",
+        "english_name": "What to say upon receiving pleasing or displeasing news",
+        "arabic_name": "ما يقول من أتاه أمر يسره أو يكرهه"
+    },
+    {
+        "chapter_number": "107",
+        "english_name": "Excellence of sending prayers upon the Prophet (saws)",
+        "arabic_name": "فضل الصلاة على النبي ﷺ"
+    },
+    {
+        "chapter_number": "108",
+        "english_name": "Excellence of spreading the Islamic greeting",
+        "arabic_name": "إفشاء السلام"
+    },
+    {
+        "chapter_number": "109",
+        "english_name": "Returning a greeting to a disbeliever",
+        "arabic_name": "كيف يرد السلام على الكافر إذا سلم"
+    },
+    {
+        "chapter_number": "110",
+        "english_name": "Upon hearing a rooster crow or the braying of a donkey",
+        "arabic_name": "دعاء عند سماع صياح الديك ونهيق الحمار"
+    },
+    {
+        "chapter_number": "111",
+        "english_name": "Upon hearing the barking of dogs at night",
+        "arabic_name": "دعاء عند سماع نباح الكلاب بالليل"
+    },
+    {
+        "chapter_number": "112",
+        "english_name": "For one you have insulted",
+        "arabic_name": "الدعاء لمن سببته"
+    },
+    {
+        "chapter_number": "113",
+        "english_name": "The etiquette of praising a fellow Muslim",
+        "arabic_name": "ما يقول المسلم إذا مدح المسلم"
+    },
+    {
+        "chapter_number": "114",
+        "english_name": "For the one that have been praised",
+        "arabic_name": "ما يقول المسلم إذا زكي"
+    },
+    {
+        "chapter_number": "115",
+        "english_name": "The Talbiya for the one doing Hajj or 'Umrah",
+        "arabic_name": "كيف يلبي المحرم في الحج أو العمرة"
+    },
+    {
+        "chapter_number": "116",
+        "english_name": "The Takbîr passing the black stone",
+        "arabic_name": "التكبير إذا أتي الركن الأسود"
+    },
+    {
+        "chapter_number": "117",
+        "english_name": "Between the Yemeni corner and the black stone",
+        "arabic_name": "الدعاء بين الركن اليماني والحجر الأسود"
+    },
+    {
+        "chapter_number": "118",
+        "english_name": "When at Mount Safa and Mount Marwah",
+        "arabic_name": "دعاء الوقوف على الصفا والمروة"
+    },
+    {
+        "chapter_number": "119",
+        "english_name": "The Day of 'Arafah",
+        "arabic_name": "الدعاء يوم عرفة"
+    },
+    {
+        "chapter_number": "120",
+        "english_name": "Remembrance at Muzdalifa",
+        "arabic_name": "الذكر عند المشعر الحرام"
+    },
+    {
+        "chapter_number": "121",
+        "english_name": "Takbir when throwing each pebble at the Jamarat",
+        "arabic_name": "التكبير عند رمي الجمار مع كل حصاة"
+    },
+    {
+        "chapter_number": "122",
+        "english_name": "At times of amazement and that which delights",
+        "arabic_name": "ما يقول عند التعجب والأمر السار"
+    },
+    {
+        "chapter_number": "123",
+        "english_name": "Upon receiving pleasant news",
+        "arabic_name": "ما يفعل من أتاه أمر يسره"
+    },
+    {
+        "chapter_number": "124",
+        "english_name": "When feeling some pain in the body",
+        "arabic_name": "ما يفعل ويقول من أحس وجعاً في جسده"
+    },
+    {
+        "chapter_number": "125",
+        "english_name": "When in fear of afflicting something with an (evil) eye from oneself",
+        "arabic_name": "ما يقول من خشي أن يصيب شيئاً بعينه"
+    },
+    {
+        "chapter_number": "126",
+        "english_name": "When startled",
+        "arabic_name": "ما يقال عند الفزع"
+    },
+    {
+        "chapter_number": "127",
+        "english_name": "When slaughtering or offering a sacrifice",
+        "arabic_name": "ما يقول عند الذبح أو النحر"
+    },
+    {
+        "chapter_number": "128",
+        "english_name": "To ward off the plot of the rebellious devils",
+        "arabic_name": "ما يقول لرد كيد مردة الشياطين"
+    },
+    {
+        "chapter_number": "129",
+        "english_name": "Seeking forgiveness and repentance",
+        "arabic_name": "الاستغفار والتوبة"
+    },
+    {
+        "chapter_number": "130",
+        "english_name": "Excellence of Tasbih, Tahmid, Tahlil, and Takbir",
+        "arabic_name": "من فضل التسبيح والتحميد ، والتهليل ، والتكبير"
+    },
+    {
+        "chapter_number": "131",
+        "english_name": "How the Prophet ﷺ made tasbeeh",
+        "arabic_name": "كيف كان النبي ﷺ يسبح ؟"
+    },
+    {
+        "chapter_number": "132",
+        "english_name": "Comprehensive types of good and manners",
+        "arabic_name": "من أنواع الخير والآداب الجامعة"
+    }
+]
