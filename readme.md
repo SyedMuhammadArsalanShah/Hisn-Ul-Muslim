@@ -1,6 +1,4 @@
-Here’s a README file formatted in an Islamic way with appropriate icons to enhance visual appeal and clarity. The icons used are representative and can be replaced with any specific icons you prefer:
 
----
 
 # 🌙 بسم الله الرحمن الرحيم
 
